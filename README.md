@@ -1,6 +1,6 @@
 ## Welcome to the Michigan Azure M365 User Group website
 
-![user group logo](MAz365ug.png "Michigan Azure M365 user group")
+![user group logo](MAz365UGv2.png "Michigan Azure M365 user group")
 
 
 You can use the [editor on GitHub](https://github.com/maz365usergroup/maz365usergroup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
