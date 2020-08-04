@@ -1,9 +1,9 @@
-## Welcome to the Michigan Azure M365 User Group website
+# Welcome to the Michigan Azure M365 User Group website
 
 ![user group logo](MAz365UGv2.png "Michigan Azure M365 user group")
 
 
-**The mission of this group is to:**
+## **Group Mission**
 - Create an inclusive learning environment for those interested in Cloud technologies on Azure and M365
 
 - Provide content from global community members on a monthly basis
@@ -19,11 +19,14 @@ Register here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-us
 All past meetings are recorded and can be access here: 
 [Link] (https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn)
 
+## Sessions
 ### Upcoming Sessions
 
 <!-- wp:paragraph -->
 <p><strong><em><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-green-cyan-color">NEXT MEETING</span></span><span class="has-inline-color has-vivid-green-cyan-color">: </span><span class="has-inline-color has-vivid-cyan-blue-color">August 19, 2020</span> at 8 AM US Eastern Time (UTC -4)</em></strong>- Azure Identity Management: No PIM without WIM and TIM with Wim Matthyssen and Tim Hermie.  Register here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a></p>
 <!-- /wp:paragraph -->
+
+![Image](images/pimtimwim.jpg_large)
 
 <!-- wp:paragraph -->
 <p>September 16, 2020 at 8 AM US Eastern Time (UTC -4)- still needing speakers.  Submit your session request here: <a rel="noreferrer noopener" href="https://sessionize.com/MI-azure-m365-user-group" target="_blank">https://sessionize.com/MI-azure-m365-user-group</a></p>
