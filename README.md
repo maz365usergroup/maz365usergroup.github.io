@@ -16,12 +16,12 @@
 
 **Register here:** <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a>
 
-**Join the LinkedIn Group:** [Link] (https://www.linkedin.com/groups/12293597/)
+**Join the LinkedIn Group:** <a rel="noreferrer noopener" href="https://www.linkedin.com/groups/12293597/" target="_blank">https://www.linkedin.com/groups/12293597/</a> 
 
-**Follow on Twitter:** [Link} (https://twitter.com/MAz365ug)
+**Follow on Twitter:** <a rel="noreferrer noopener" href="https://twitter.com/MAz365ug" target="_blank">https://twitter.com/MAz365ug</a>
 
-All past meetings are recorded and can be access here: 
-[Link] (https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn)
+All past meetings are recorded and can be access here: <a rel="noreferrer noopener" href="YouTube Channel playlist" target="_blank">https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn</a>
+
 
 ## Sessions
 ### Upcoming Sessions
