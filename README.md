@@ -14,7 +14,7 @@
 
 - **No sales pitches, just information!**
 
-Register here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a>
+**Register here:** <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a>
 
 All past meetings are recorded and can be access here: 
 [Link] (https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn)
