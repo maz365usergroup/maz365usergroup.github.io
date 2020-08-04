@@ -26,7 +26,7 @@ All past meetings are recorded and can be access here:
 <p><strong><em><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-green-cyan-color">NEXT MEETING</span></span><span class="has-inline-color has-vivid-green-cyan-color">: </span><span class="has-inline-color has-vivid-cyan-blue-color">August 19, 2020</span> at 8 AM US Eastern Time (UTC -4)</em></strong>- Azure Identity Management: No PIM without WIM and TIM with Wim Matthyssen and Tim Hermie.  Register here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a></p>
 <!-- /wp:paragraph -->
 
-![Image](images/pimtimwim.jpg)
+![](images/NoPIMwoWIMandTIM.jpg)
 
 <!-- wp:paragraph -->
 <p>September 16, 2020 at 8 AM US Eastern Time (UTC -4)- still needing speakers.  Submit your session request here: <a rel="noreferrer noopener" href="https://sessionize.com/MI-azure-m365-user-group" target="_blank">https://sessionize.com/MI-azure-m365-user-group</a></p>
