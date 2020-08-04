@@ -3,38 +3,49 @@
 ![user group logo](MAz365UGv2.png "Michigan Azure M365 user group")
 
 
-You can use the [editor on GitHub](https://github.com/maz365usergroup/maz365usergroup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**The mission of this group is to:**
+- Create an inclusive learning environment for those interested in Cloud technologies on Azure and M365
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Provide content from global community members on a monthly basis
 
-### Markdown
+- Expand knowledge for users in Michigan, United States, and around the world
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Everyone is welcome to share session dates with their colleagues and contacts
 
-```markdown
-Syntax highlighted code block
+- **No sales pitches, just information!**
 
-# Header 1
-## Header 2
-### Header 3
+Register here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a>
 
-- Bulleted
-- List
+All past meetings are recorded and can be access here: 
+[Link] (https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn)
 
-1. Numbered
-2. List
+### Upcoming Sessions
 
-**Bold** and _Italic_ and `Code` text
+<!-- wp:paragraph -->
+<p><strong><em><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-green-cyan-color">NEXT MEETING</span></span><span class="has-inline-color has-vivid-green-cyan-color">: </span><span class="has-inline-color has-vivid-cyan-blue-color">August 19, 2020</span> at 8 AM US Eastern Time (UTC -4)</em></strong>- Azure Identity Management: No PIM without WIM and TIM with Wim Matthyssen and Tim Hermie.  Register here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a></p>
+<!-- /wp:paragraph -->
 
-[Link](url) and ![Image](src)
-```
+<!-- wp:paragraph -->
+<p>September 16, 2020 at 8 AM US Eastern Time (UTC -4)- still needing speakers.  Submit your session request here: <a rel="noreferrer noopener" href="https://sessionize.com/MI-azure-m365-user-group" target="_blank">https://sessionize.com/MI-azure-m365-user-group</a></p>
+<!-- /wp:paragraph -->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- wp:paragraph -->
+<p>October 21, 2020 at 8 AM US Eastern Time (UTC -4)- Azure Bastion: One does not simply walk into my VNet! with Wim Matthyssen.</p>
+<!-- /wp:paragraph -->
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maz365usergroup/maz365usergroup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Past Sessions
 
-### Support or Contact
+<!-- wp:paragraph -->
+<p><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-cyan-blue-color"><strong>June 17, 2020</strong> </span></span>at 11:30 AM US Eastern Time (UTC-4) - Guardians of your Microsoft Galaxy: 10 tips to make your Cloud eco-system more secure with Wim Matthyssen and Tim Hermie.  Attendence is free. Register for any event here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a>. This meeting can be joined with this link: <a rel="noreferrer noopener" href="https://bit.ly/MAz365UGjune2020" target="_blank">https://bit.ly/MAz365UGjune2020</a> </p>
+<!-- /wp:paragraph -->
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- wp:paragraph -->
+<p>Session abstract: I am Groot. In today’s modern hybrid cloud world, many companies are moving a lot of their on-premises resources and workloads to the Microsoft Cloud. And just like on-premises this new Cloud eco-system needs protection to prevent it from breaches, ransomware and other malicious invaders. In this session we will learn you 10 tips which will help you to get the job done and to be the guardian of your Microsoft Galaxy. I am Groot.  <strong>View the recording of the meeting with Wim and Tim's presentation on June 17 here: <a rel="noreferrer noopener" href="https://youtu.be/U4wbrZYf4Pw" target="_blank">https://youtu.be/U4wbrZYf4Pw</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-cyan-blue-color">July 15, 2020</span></span></strong> at 8 AM US Eastern Time (UTC -4) - What is Azure Governance and why you need it too with Vukasin Terzic.  Vukasin provided a great overview on the use of Azure Resource Graph, Resource Locks, Tags, Azure Policy, and Blueprints to govern your Azure resources.  View the recording of this meeting here: <a href="https://youtu.be/IuxPKmU1e-o" target="_blank" rel="noreferrer noopener">https://youtu.be/IuxPKmU1e-o</a></p>
+<!-- /wp:paragraph -->
+
+
