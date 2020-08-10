@@ -1,4 +1,5 @@
-# Welcome to the Michigan Azure M365 User Group website
+# Welcome to the 
+# Michigan Azure M365 User Group website
 
 ![user group logo](MAz365UGv2.png "Michigan Azure M365 user group")
 
