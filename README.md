@@ -57,7 +57,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-cyan-blue-color">August 19, 2020</span> at 8 AM US Eastern Time (UTC -4)</em></strong>- Azure Identity Management: No PIM without WIM and TIM with Wim Matthyssen and Tim Hermie. </p> View the recording of this meeting here: <a href="https://youtu.be/_ewhU8jtsKQ" target="_blank" rel="noreferrer noopener">https://youtu.be/_ewhU8jtsKQ</a></p>
+<p><strong><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-cyan-blue-color">August 19, 2020</span> at 8 AM US Eastern Time (UTC -4)</em></strong>- Azure Identity Management: No PIM without WIM and TIM with Wim Matthyssen and Tim Hermie. View the recording of this meeting here: <a href="https://youtu.be/_ewhU8jtsKQ" target="_blank" rel="noreferrer noopener">https://youtu.be/_ewhU8jtsKQ</a></p>
 <p>For links to other events, you can view the user group slides here: <a href="https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1" target="_blank" rel="noreferrer noopener">https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1</a></p>
 <!-- /wp:paragraph -->
 
