@@ -62,4 +62,4 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 <!-- /wp:paragraph -->
 
 
-<a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a>
+<p><a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
