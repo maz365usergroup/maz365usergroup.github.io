@@ -30,7 +30,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 <!-- wp:paragraph -->
 <p><strong><em><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-green-cyan-color">NEXT MEETING</span></span><span class="has-inline-color has-vivid-green-cyan-color">: </span><span class="has-inline-color has-vivid-cyan-blue-color">September 16, 2020</span> at 8 AM US Eastern Time (UTC -4)</em></strong>
 - "Logic Apps Deep Dive" with Vaibhav Gujral. </p> <p>Register here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup.
-<p><a> We still needing speakers for future events.  Submit your session request here: <a rel="noreferrer noopener" href="https://sessionize.com/MI-azure-m365-user-group" target="_blank">https://sessionize.com/MI-azure-m365-user-group</a>
+<p>We still needing speakers for future events.  Submit your session request here: <a rel="noreferrer noopener" href="https://sessionize.com/MI-azure-m365-user-group" target="_blank">https://sessionize.com/MI-azure-m365-user-group</a>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
