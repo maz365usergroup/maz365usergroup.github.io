@@ -51,7 +51,7 @@ View the recording of the meeting with Wim and Tim's presentation on June 17 her
 View the recording of this meeting here: <a href="https://youtu.be/IuxPKmU1e-o" target="_blank" rel="noreferrer noopener">https://youtu.be/IuxPKmU1e-o</a>
 
 **August 19, 2020** - Azure Identity Management: No PIM without WIM and TIM with Wim Matthyssen and Tim Hermie. 
-View the recording of this meeting here: <a href="https://youtu.be/_ewhU8jtsKQ" target="_blank" rel="noreferrer noopener">https://youtu.be/_ewhU8jtsKQ</a></p>
+View the recording of this meeting here: <a href="https://youtu.be/_ewhU8jtsKQ" target="_blank" rel="noreferrer noopener">https://youtu.be/_ewhU8jtsKQ</a>
 
 For links to other events, you can view the user group slides here: <a href="https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1" target="_blank" rel="noreferrer noopener">https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1</a>
 
