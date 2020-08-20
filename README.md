@@ -24,8 +24,13 @@
 All past meetings are recorded and can be access here: <a rel="noreferrer noopener" href="https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn" target="_blank">https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn</a>
 
 
-## Sessions
-### Upcoming Sessions
+## Sessions 
+
+### Session overviews: https://sessionize.com/api/v2/c8xd84bp/view/Sessions
+
+### Speakers: https://sessionize.com/api/v2/c8xd84bp/view/SpeakerWall
+
+## Upcoming Sessions
 
 <!-- wp:paragraph -->
 <p><strong><em><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-green-cyan-color">NEXT MEETING</span></span><span class="has-inline-color has-vivid-green-cyan-color">: </span><span class="has-inline-color has-vivid-cyan-blue-color">September 16, 2020</span> at 8 AM US Eastern Time (UTC -4)</em></strong>
@@ -41,7 +46,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 <p>November 18, 2020 at 8 AM US Eastern Time (UTC -4)- "Monitoring Refrigeration Trucks using IoT Central and PowerBI" with Victor Rodrigues.</p>
 <!-- /wp:paragraph -->
 
-### Past Sessions
+## Past Sessions
 
 <!-- wp:paragraph -->
 <p><span style="text-decoration:underline;"><span class="has-inline-color has-vivid-cyan-blue-color"><strong>June 17, 2020</strong> </span></span>at 11:30 AM US Eastern Time (UTC-4) - Guardians of your Microsoft Galaxy: 10 tips to make your Cloud eco-system more secure with Wim Matthyssen and Tim Hermie.  Attendence is free. Register for any event here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a>. This meeting can be joined with this link: <a rel="noreferrer noopener" href="https://bit.ly/MAz365UGjune2020" target="_blank">https://bit.ly/MAz365UGjune2020</a> </p>
