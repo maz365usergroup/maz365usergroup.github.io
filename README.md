@@ -26,9 +26,9 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Sessions 
 
-### Session overviews: https://sessionize.com/api/v2/c8xd84bp/view/Sessions
+**Session overviews:** <a rel="noreferrer noopener" href="https://sessionize.com/api/v2/c8xd84bp/view/Sessions" target="_blank">https://sessionize.com/api/v2/c8xd84bp/view/Sessions</a>
 
-### Speakers: https://sessionize.com/api/v2/c8xd84bp/view/SpeakerWall
+**Speaker bios:** <a rel="noreferrer noopener" href="https://sessionize.com/api/v2/c8xd84bp/view/SpeakerWall" target="_blank">https://sessionize.com/api/v2/c8xd84bp/view/SpeakerWall</a>
 
 ## Upcoming Sessions
 
