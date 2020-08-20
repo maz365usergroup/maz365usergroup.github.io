@@ -41,6 +41,10 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 **November 18, 2020** at 8 AM US Eastern Time (UTC -4)- "Monitoring Refrigeration Trucks using IoT Central and PowerBI" with Victor Rodrigues.
 
+**December 16, 2020** at 8 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender.
+
+**January 20, 2021** at 8 AM US Eastern Time (UTC -4)- "Using Azure Functions to create a .Net core Web Apps with Azure Blob Storage and perform Blob Triggers and deploying Azure Function Apps in Azure Kubernetes Clusters using KEDA" with Menaka Baskerpillai.
+
 
 ## Past Sessions
 
