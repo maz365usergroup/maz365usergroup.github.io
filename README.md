@@ -15,7 +15,7 @@
 
 - **No sales pitches, just information!**
 
-**Register here:** <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup</a>
+**Register here:** <a rel="noreferrer noopener" href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup</a>
 
 **Join the LinkedIn Group:** <a rel="noreferrer noopener" href="https://www.linkedin.com/groups/12293597/" target="_blank">https://www.linkedin.com/groups/12293597/</a> 
 
@@ -35,7 +35,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 ## Upcoming Sessions
 
 **NEXT MEETING September 16, 2020** at 8 AM US Eastern Time (UTC -4) - **"Logic Apps Deep Dive" with Vaibhav Gujral**
-  Register here: <a rel="noreferrer noopener" href="https://bit.ly/MI-AzureM365-usergroup" target="_blank">bit.ly/MI-AzureM365-usergroup.
+  Register here: <a rel="noreferrer noopener" href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup.
   
 **October 21, 2020** at 8 AM US Eastern Time (UTC -4)- "Azure Bastion: One does not simply walk into my VNet!" with Wim Matthyssen.
 
