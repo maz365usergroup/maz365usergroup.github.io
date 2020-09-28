@@ -56,7 +56,7 @@ View the recording of this meeting here: <a href="https://youtu.be/IuxPKmU1e-o" 
 View the recording of this meeting here: <a href="https://youtu.be/_ewhU8jtsKQ" target="_blank" rel="noreferrer noopener">https://youtu.be/_ewhU8jtsKQ</a>
 
 **September 16, 2020** "Logic Apps Deep Dive" with Vaibhav Gujral.  Vaibhav provided an overview of Logic Apps and how to create them in the Azure Portal, Visual Studio Code, and Visual Studio 2019 with json and Logic App Designer.
-View the recording of this meeting here: <a href="https://youtu.be/LNSYH9dCd-E" target="_blank" rel="noreferrer noopener">**https://youtu.be/LNSYH9dCd-E**</a>
+View the recording of this meeting here: <a href="https://youtu.be/LNSYH9dCd-E" target="_blank" rel="noreferrer noopener">https://youtu.be/LNSYH9dCd-E</a>
 
 For links to other events, you can view the user group slides here: <a href="https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1" target="_blank" rel="noreferrer noopener">https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1</a>
 
