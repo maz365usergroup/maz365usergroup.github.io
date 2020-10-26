@@ -34,10 +34,9 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING : October 21, 2020** at 8 AM US Eastern Time (UTC -4)- **"Azure Bastion: One does not simply walk into my VNet!" with Wim Matthyssen.**
-  Register here: <a rel="noreferrer noopener" href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup.
+**NEXT MEETING : **November 18, 2020** at 8 AM US Eastern Time (UTC -4)- "Monitoring Refrigeration Trucks using IoT Central and PowerBI" with Victor Rodrigues. Register here: <a rel="noreferrer noopener" href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup.
 
-**November 18, 2020** at 8 AM US Eastern Time (UTC -4)- "Monitoring Refrigeration Trucks using IoT Central and PowerBI" with Victor Rodrigues.
+**SPECIAL MEETING: December 2, 2020** at 12 PM US Eastern Time (UTC -4) - "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter 
 
 **December 16, 2020** at 10 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender.
 
