@@ -40,7 +40,9 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 **December 16, 2020** at 10 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender.
 
-**January 20, 2021** at 8 AM US Eastern Time (UTC -4)- "Using Azure Functions to create a .Net core Web Apps with Azure Blob Storage and perform Blob Triggers and deploying Azure Function Apps in Azure Kubernetes Clusters using KEDA" with Menaka Baskerpillai.
+**January 6, 2021** at 12 PM US Eastern Time (UTC -4) - "WVD - Lessons from the Battlefield" with Shabaz Darr
+
+**January 20, 2021** at 12 PM US Eastern Time (UTC -4)- "Using Azure Functions to create a .Net core Web Apps with Azure Blob Storage and perform Blob Triggers and deploying Azure Function Apps in Azure Kubernetes Clusters using KEDA" with Menaka Baskerpillai.
 
 
 ## Past Sessions
