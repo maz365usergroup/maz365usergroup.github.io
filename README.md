@@ -1,7 +1,7 @@
 # Welcome to the 
-# Michigan Azure M365 User Group website
+# Midwest Azure M365 User Group website
 
-![user group logo](MAz365UGv2.png "Michigan Azure M365 user group")
+![user group logo](MAz365UGv2.png "Midwest Azure M365 user group")
 
 
 ## **Group Mission**
@@ -15,6 +15,14 @@
 
 - **No sales pitches, just information!**
 
+## **Our Team**
+
+**Dwayne Natwick**: (@DwayneNCloud) Microsoft MVP for Azure, Microsoft Certified Trainer (MCT) Regional Lead, Cloud Training Architect Lead at Opsgility. 
+**Elizabeth McAndrew-Benavides**: (@NuclearLiz) Customer Success Lead at Opsgility.
+**Shannon Kuehn**: (@ShanKuehn) Senior Cloud Advocate, Azure Engineering at Microsoft
+
+## **Register and Follow** 
+
 **Register here:** <a rel="noreferrer noopener" href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup</a>
 
 **Join the LinkedIn Group:** <a rel="noreferrer noopener" href="https://www.linkedin.com/groups/12293597/" target="_blank">https://www.linkedin.com/groups/12293597/</a> 
@@ -24,7 +32,6 @@
 **We still needing speakers for future events.  Submit your session request here:** <a rel="noreferrer noopener" href="https://sessionize.com/MI-azure-m365-user-group" target="_blank">https://sessionize.com/MI-azure-m365-user-group</a>
 
 All past meetings are recorded and can be access here: <a rel="noreferrer noopener" href="https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn" target="_blank">https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn</a>
-
 
 ## Sessions 
 
