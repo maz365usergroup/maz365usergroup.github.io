@@ -34,9 +34,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING : **November 18, 2020** at 8 AM US Eastern Time (UTC -4)- "Monitoring Refrigeration Trucks using IoT Central and PowerBI" with Victor Rodrigues. Register here: <a rel="noreferrer noopener" href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup.
-
-**SPECIAL MEETING: December 2, 2020** at 12 PM US Eastern Time (UTC -4) - "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter 
+**NEXT MEETING, SPECIAL MEETING: December 2, 2020** at 12 PM US Eastern Time (UTC -4) - "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter.  Register here: <a href="https://youtu.be/jh_rzzSYDm8" target="_blank">https://youtu.be/jh_rzzSYDm8.
 
 **December 16, 2020** at 10 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender.
 
@@ -58,6 +56,9 @@ View the recording of this meeting here: <a href="https://youtu.be/_ewhU8jtsKQ" 
 
 **September 16, 2020** "Logic Apps Deep Dive" with Vaibhav Gujral.  Vaibhav provided an overview of Logic Apps and how to create them in the Azure Portal, Visual Studio Code, and Visual Studio 2019 with json and Logic App Designer.
 View the recording of this meeting here: <a href="https://youtu.be/LNSYH9dCd-E" target="_blank" rel="noreferrer noopener">https://youtu.be/LNSYH9dCd-E</a>
+
+**November 18, 2020**  "Monitoring Refrigeration Trucks using IoT Central and PowerBI" with Victor Rodrigues. 
+View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" target="_blank">https://youtu.be/jh_rzzSYDm8.
 
 For links to other events, you can view the user group slides here: <a href="https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1" target="_blank" rel="noreferrer noopener">https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1</a>
 
