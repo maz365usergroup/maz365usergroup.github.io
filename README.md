@@ -67,7 +67,7 @@ View the recording of this meeting here: <a href="https://youtu.be/LNSYH9dCd-E" 
 **November 18, 2020**  "Monitoring Refrigeration Trucks using IoT Central and PowerBI" with Victor Rodrigues. 
 View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" target="_blank">https://youtu.be/jh_rzzSYDm8.
   
-**December 2, 2020**  "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter.  Register here: <a href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events/274195665/" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events/274195665/.
+**December 2, 2020**  "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter.  Register here: <a href="https://youtu.be/lBQLZzix-bY" target="_blank">https://youtu.be/lBQLZzix-bY.
 
 **Links to other events hosted by presenters**:
 - <a href="https://https://festivetechcalendar.com/" target="_blank">https://festivetechcalendar.com/</a>
