@@ -33,7 +33,7 @@
 
 **We still needing speakers for future events.  Submit your session request here:** <a rel="noreferrer noopener" href="https://sessionize.com/MI-azure-m365-user-group" target="_blank">https://sessionize.com/MI-azure-m365-user-group</a>
 
-All past meetings are recorded and can be access here: <a rel="noreferrer noopener" href="https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn" target="_blank">https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn</a>
+All past meetings are recorded and can be access here: <a rel="noreferrer noopener" href="https://www.youtube.com/c/CaptainHyperscaler/playlists" target="_blank">https://www.youtube.com/c/CaptainHyperscaler/playlists</a>
 
 ## Sessions 
 
@@ -43,9 +43,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING: December 2, 2020** at 12 PM US Eastern Time (UTC -4) - "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter.  Register here: <a href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events/274195665/" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events/274195665/.
-
-**December 16, 2020** at 10 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender.
+**NEXT MEETING: December 16, 2020** at 10 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender. <a href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events.
 
 **January 6, 2021** at 12 PM US Eastern Time (UTC -4) - "WVD - Lessons from the Battlefield" with Shabaz Darr
 
@@ -68,6 +66,8 @@ View the recording of this meeting here: <a href="https://youtu.be/LNSYH9dCd-E" 
 
 **November 18, 2020**  "Monitoring Refrigeration Trucks using IoT Central and PowerBI" with Victor Rodrigues. 
 View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" target="_blank">https://youtu.be/jh_rzzSYDm8.
+  
+**December 2, 2020**  "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter.  Register here: <a href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events/274195665/" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events/274195665/.
 
 For links to other events, you can view the user group slides here: <a href="https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1" target="_blank" rel="noreferrer noopener">https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1</a>
 
