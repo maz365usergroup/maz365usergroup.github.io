@@ -69,7 +69,11 @@ View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" 
   
 **December 2, 2020**  "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter.  Register here: <a href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events/274195665/" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events/274195665/.
 
-For links to other events, you can view the user group slides here: <a href="https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1" target="_blank" rel="noreferrer noopener">https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1</a>
+**Links to other events hosted by presenters**:
+- <a href="https://https://festivetechcalendar.com/" target="_blank">https://festivetechcalendar.com/</a>
+- <a href="https://www.mc2mc.be/events" target="_blank">https://www.mc2mc.be/events</a>
+- <a href="http://www.technine.be/" target="_blank">http://www.technine.be/</a>
+- <a href="https://omahaaug.com/" target="_blank">https://omahaaug.com/</a>
 
 
 <p><a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
