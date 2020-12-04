@@ -83,6 +83,6 @@ View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" 
 
 ## **Our Sponsors**
 
-<p><a rel="noreferrer noopener" href="https:skylinesacademy.com" target="_blank">https://skylinesacademy.com</a></p>
+<p><a rel="noreferrer noopener" href="https://www.skylinesacademy.com" target="_blank">https://www.skylinesacademy.com</a></p>
 
-<p><a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
+<p><a rel="noreferrer noopener" href="https://www.captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
