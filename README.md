@@ -23,6 +23,10 @@
 
 **Shannon Kuehn**: (@ShanKuehn) Senior Cloud Advocate, Azure Engineering at Microsoft
 
+**Brette Bossick**: (@BretteMB) Founder & COO at Skylines Academy | Enabling and Empowering IT Teams to Adopt Cloud
+
+**Nick Colyer**: (@vNickC) Chief Architect at Ahead / Co-Founder of Skylines Academy / Microsoft MVP 2020-2021 / VMware vExpert / Microsoft Certified Trainer
+
 ## **Register and Follow** 
 
 **Register here:** <a rel="noreferrer noopener" href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup</a>
