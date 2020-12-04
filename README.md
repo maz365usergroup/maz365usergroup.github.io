@@ -25,7 +25,7 @@
 
 ## **Register and Follow** 
 
-**Register here:** <a rel="noreferrer noopener" href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup</a>
+**Register here:** <a rel="noreferrer noopener" href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup</a>
 
 **Join the LinkedIn Group:** <a rel="noreferrer noopener" href="https://www.linkedin.com/groups/12293597/" target="_blank">https://www.linkedin.com/groups/12293597/</a> 
 
@@ -43,7 +43,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING RESCHEDULED: TUESDAY, December 22, 2020** at 10 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender. <a href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup/events.
+**NEXT MEETING RESCHEDULED: TUESDAY, December 22, 2020** at 10 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender. <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
 
 **January 6, 2021** at 12 PM US Eastern Time (UTC -4) - "WVD - Lessons from the Battlefield" with Shabaz Darr
 
