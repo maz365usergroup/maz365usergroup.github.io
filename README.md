@@ -17,9 +17,11 @@
 
 ## **Our Team**
 
-**Dwayne Natwick**: (@DwayneNCloud) Microsoft MVP for Azure, Microsoft Certified Trainer (MCT) Regional Lead, Cloud Training Architect Lead at Opsgility. 
+**Dwayne Natwick**: (@DwayneNCloud) Microsoft MVP for Azure | Microsoft Certified Trainer (MCT) Regional Lead | Cloud Training Architect Lead at Opsgility. 
 
 **Elizabeth McAndrew-Benavides**: (@NuclearLiz) Customer Success Lead at Opsgility.
+
+**Brian Gorman**: (@blgorman) MCSA, MCSD, MCT | Senior Cloud Training Architect @ Opsgility | Owner at MajorGuidanceSolutions
 
 **Shannon Kuehn**: (@ShanKuehn) Senior Cloud Advocate, Azure Engineering at Microsoft
 
@@ -79,5 +81,8 @@ View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" 
 - <a href="http://www.technine.be/" target="_blank">http://www.technine.be/</a>
 - <a href="https://omahaaug.com/" target="_blank">https://omahaaug.com/</a>
 
+## **Our Sponsors**
+
+<p><a rel="noreferrer noopener" href="https:skylinesacademy.com" target="_blank">https://skylinesacademy.com</a></p>
 
 <p><a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
