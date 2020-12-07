@@ -17,17 +17,17 @@
 
 ## **Our Team**
 
-**Dwayne Natwick**: (@DwayneNCloud) Microsoft MVP for Azure | Microsoft Certified Trainer (MCT) Regional Lead | Cloud Training Architect Lead at Opsgility. 
+**Dwayne Natwick**: (@DwayneNCloud) Microsoft MVP for Azure, Microsoft Certified Trainer (MCT) Regional Lead, Cloud Training Architect Lead at Opsgility. 
 
 **Elizabeth McAndrew-Benavides**: (@NuclearLiz) Customer Success Lead at Opsgility.
 
-**Brian Gorman**: (@blgorman) MCSA, MCSD, MCT | Senior Cloud Training Architect @ Opsgility | Owner at MajorGuidanceSolutions
+**Brian Gorman**: (@blgorman) MCSA, MCSD, MCT, Senior Cloud Training Architect @ Opsgility, Owner at MajorGuidanceSolutions
 
 **Shannon Kuehn**: (@ShanKuehn) Senior Cloud Advocate, Azure Engineering at Microsoft
 
-**Brette Bossick**: (@BretteMB) Founder & COO at Skylines Academy | Enabling and Empowering IT Teams to Adopt Cloud
+**Brette Bossick**: (@BretteMB) Founder & COO at Skylines Academy, Enabling and Empowering IT Teams to Adopt Cloud
 
-**Nick Colyer**: (@vNickC) Chief Architect at Ahead / Co-Founder of Skylines Academy / Microsoft MVP 2020-2021 / VMware vExpert / Microsoft Certified Trainer
+**Nick Colyer**: (@vNickC) Chief Architect at Ahead, Co-Founder of Skylines Academy, Microsoft MVP 2020-2021, VMware vExpert, Microsoft Certified Trainer
 
 ## **Register and Follow** 
 
