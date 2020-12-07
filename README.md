@@ -1,5 +1,4 @@
-# Welcome to the 
-# Midwest Azure M365 User Group website
+# Welcome to the Midwest Azure M365 User Group website
 
 ![user group logo](MWAzureUG.png "Midwest Azure M365 user group")
 
