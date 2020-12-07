@@ -1,7 +1,7 @@
 # Welcome to the 
 # Midwest Azure M365 User Group website
 
-![user group logo](MAz365UGv2.png "Midwest Azure M365 user group")
+![user group logo](MWAzureUG.png "Midwest Azure M365 user group")
 
 
 ## **Group Mission**
