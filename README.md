@@ -46,12 +46,17 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING RESCHEDULED: TUESDAY, December 22, 2020** at 10 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender. <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
-
-**January 6, 2021** at 12 PM US Eastern Time (UTC -4) - "WVD - Lessons from the Battlefield" with Shabaz Darr
+**NEXT MEETING RESCHEDULED: January 6, 2021** at 12 PM US Eastern Time (UTC -4) - "WVD - Lessons from the Battlefield" with Shabaz Darr. <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
 
 **January 20, 2021** at 12 PM US Eastern Time (UTC -4)- "Using Azure Functions to create a .Net core Web Apps with Azure Blob Storage and perform Blob Triggers and deploying Azure Function Apps in Azure Kubernetes Clusters using KEDA" with Menaka Baskerpillai.
 
+**February 10, 2021** at 12:30 PM US Eastern Time (UTC -4)- "Journey to a Secure AKS - Use AAD identity for pods and make your SecOps happy" with David Frappart.
+
+**February 24, 2021** at 12:00 PM US Eastern Time (UTC -4)- "Introduction to Azure Cosmos DB" with Leonard Lobel.
+
+**March 10, 2021** at 12:00 PM US Eastern Time (UTC -4)- "Data Modeling and Partitioning in Azure Cosmos DB" with Leonard Lobel.
+
+**March 24, 2021** at 12 PM US Eastern Time (UTC -4) - "Endpoint Manager and Autopilot" with Shabaz Darr
 
 ## Past Sessions
 
