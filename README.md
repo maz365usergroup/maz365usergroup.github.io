@@ -76,6 +76,8 @@ View the recording of this meeting here: <a href="https://youtu.be/LNSYH9dCd-E" 
 View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" target="_blank">https://youtu.be/jh_rzzSYDm8.
   
 **December 2, 2020**  "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter.  Register here: <a href="https://youtu.be/lBQLZzix-bY" target="_blank">https://youtu.be/lBQLZzix-bY.
+  
+**December 22, 2020** “ACR, ACI, ACS, AKS, DCK… aka the Container Alphabet Soup” with Peter De Tender. <a href="https://youtu.be/-OHeQB9JC-c" target="_blank">https://youtu.be/-OHeQB9JC-c.
 
 **Links to other events hosted by presenters**:
 - <a href="https://https://festivetechcalendar.com/" target="_blank">https://festivetechcalendar.com/</a>
