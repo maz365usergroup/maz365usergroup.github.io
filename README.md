@@ -46,9 +46,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING RESCHEDULED: January 6, 2021** at 12 PM US Eastern Time (UTC -4) - "WVD - Lessons from the Battlefield" with Shabaz Darr. <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
-
-**January 20, 2021** at 12 PM US Eastern Time (UTC -4)- "Using Azure Functions to create a .Net core Web Apps with Azure Blob Storage and perform Blob Triggers and deploying Azure Function Apps in Azure Kubernetes Clusters using KEDA" with Menaka Baskerpillai.
+**NEXT MEETING RESCHEDULED: January 20, 2021** at 12 PM US Eastern Time (UTC -4) - "Using Azure Functions to create a .Net core Web Apps with Azure Blob Storage and perform Blob Triggers and deploying Azure Function Apps in Azure Kubernetes Clusters using KEDA" with Menaka Baskerpillai. <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events. https://youtu.be/bS0RoeDWjEY
 
 **February 10, 2021** at 12:30 PM US Eastern Time (UTC -4)- "Journey to a Secure AKS - Use AAD identity for pods and make your SecOps happy" with David Frappart.
 
@@ -78,6 +76,8 @@ View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" 
 **December 2, 2020**  "7 Habits that Every Azure Administrator needs to have" with Wim Matthyssen and Karel De Winter.  Register here: <a href="https://youtu.be/lBQLZzix-bY" target="_blank">https://youtu.be/lBQLZzix-bY.
   
 **December 22, 2020** “ACR, ACI, ACS, AKS, DCK… aka the Container Alphabet Soup” with Peter De Tender. <a href="https://youtu.be/-OHeQB9JC-c" target="_blank">https://youtu.be/-OHeQB9JC-c.
+  
+**January 6, 2021** "WVD - Lessons from the Battlefield" with Shabaz Darr. <a href="https://youtu.be/bS0RoeDWjEY" target="_blank">https://youtu.be/bS0RoeDWjEY.
 
 **Links to other events hosted by presenters**:
 - <a href="https://https://festivetechcalendar.com/" target="_blank">https://festivetechcalendar.com/</a>
