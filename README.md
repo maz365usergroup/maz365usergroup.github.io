@@ -56,6 +56,8 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 **March 24, 2021** at 12 PM US Eastern Time (UTC -4) - "Endpoint Manager and Autopilot" with Shabaz Darr
 
+**April 7, 2021** at 12 PM US Eastern Time (UTC -4) - "Data in Azure" with Matt Bradley
+
 ## Past Sessions
 
 **June 17, 2020** - Guardians of your Microsoft Galaxy: 10 tips to make your Cloud eco-system more secure with Wim Matthyssen and Tim Hermie. In this session we will learn you 10 tips which will help you to get the job done and to be the guardian of your Microsoft Galaxy.
