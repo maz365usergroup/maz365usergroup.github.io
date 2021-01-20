@@ -46,7 +46,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING RESCHEDULED: February 10, 2021** at 12:30 PM US Eastern Time (UTC -4)- "Journey to a Secure AKS - Use AAD identity for pods and make your SecOps happy" with David Frappart. <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
+**NEXT MEETING : February 10, 2021** at 12:30 PM US Eastern Time (UTC -4)- "Journey to a Secure AKS - Use AAD identity for pods and make your SecOps happy" with David Frappart. <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
 
 **February 24, 2021** at 12:00 PM US Eastern Time (UTC -4)- "Introduction to Azure Cosmos DB" with Leonard Lobel.
 
