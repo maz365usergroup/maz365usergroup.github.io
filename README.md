@@ -46,13 +46,13 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING : February 24, 2021** at 12:00 PM US Eastern Time (UTC -4)- "Introduction to Azure Cosmos DB" with Leonard Lobel. <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
-
-**March 10, 2021** at 12:00 PM US Eastern Time (UTC -4)- "Data Modeling and Partitioning in Azure Cosmos DB" with Leonard Lobel.
-
-**March 24, 2021** at 12 PM US Eastern Time (UTC -4) - "Endpoint Manager and Autopilot" with Shabaz Darr
+**NEXT MEETING March 24, 2021** at 12 PM US Eastern Time (UTC -4) - "Endpoint Manager and Autopilot" with Shabaz Darr <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
 
 **April 7, 2021** at 12 PM US Eastern Time (UTC -4) - "Data in Azure" with Matt Bradley
+
+**April 21, 2021** at 12:00 PM US Eastern Time (UTC -4)- "Data Modeling and Partitioning in Azure Cosmos DB" with Leonard (Lenni) Lobel.
+
+
 
 ## Past Sessions
 
@@ -80,6 +80,8 @@ View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" 
 **January 20, 2021** "Using Azure Functions to create a .Net core Web Apps with Azure Blob Storage and perform Blob Triggers and deploying Azure Function Apps in Azure Kubernetes Clusters using KEDA" with Menaka Baskerpillai. <a href="https://youtu.be/WTnB1f182mk" target="_blank">https://youtu.be/WTnB1f182mk.
   
 **February 10, 2021** "Journey to a Secure AKS - Use AAD identity for pods and make your SecOps happy" with David Frappart. <a href="https://youtu.be/UZSVE2L126Q" target="_blank">https://youtu.be/UZSVE2L126Q.  
+  
+**February 24, 2021** "Introduction to Azure Cosmos DB" with Leonard (Lenni) Lobel. <a href="https://youtu.be/" target="_blank">https://youtu.be/.
   
 
 **Links to other events hosted by presenters**:
