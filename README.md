@@ -81,7 +81,7 @@ View the recording of this meeting here: <a href="https://youtu.be/jh_rzzSYDm8" 
   
 **February 10, 2021** "Journey to a Secure AKS - Use AAD identity for pods and make your SecOps happy" with David Frappart. <a href="https://youtu.be/UZSVE2L126Q" target="_blank">https://youtu.be/UZSVE2L126Q.  
   
-**February 24, 2021** "Introduction to Azure Cosmos DB" with Leonard (Lenni) Lobel. <a href="https://youtu.be/" target="_blank">https://youtu.be/.
+**February 24, 2021** "Introduction to Azure Cosmos DB" with Leonard (Lenni) Lobel. <a href="https://youtu.be/I51l22xBHEo" target="_blank">https://youtu.be/I51l22xBHEo.
   
 
 **Links to other events hosted by presenters**:
