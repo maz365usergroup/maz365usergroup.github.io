@@ -46,7 +46,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING March 24, 2021** at 12 PM US Eastern Time (UTC -4) - "Endpoint Manager and Autopilot" with Shabaz Darr <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
+**NEXT MEETING March 17, 2021** at 12 PM US Eastern Time (UTC -4) - "Endpoint Manager and Autopilot" with Shabaz Darr <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
 
 **April 7, 2021** at 12 PM US Eastern Time (UTC -4) - "Data in Azure" with Matt Bradley
 
