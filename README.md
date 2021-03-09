@@ -54,7 +54,7 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 **May 5, 2021** at 12 PM US Eastern Time (UTC -4) - "How GitHub can help in planning, building, and deploying a Podcast/Blog site" with Chris Reddington
 
-**May 19, 2021** at 12 PM US Eastern Time (UTC -4) - "Do You Know How to YAML? How to best leverage YAML Pipelines for Azure Deployments and Releases" with John Folberth
+**May 26, 2021** at 12 PM US Eastern Time (UTC -4) - "Do You Know How to YAML? How to best leverage YAML Pipelines for Azure Deployments and Releases" with John Folberth
 
 ## Past Sessions
 
