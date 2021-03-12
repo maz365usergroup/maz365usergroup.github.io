@@ -46,15 +46,15 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 ## Upcoming Sessions
 
-**NEXT MEETING March 17, 2021** at 12 PM US Eastern Time (UTC -4) - "Endpoint Manager and Autopilot" with Shabaz Darr <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
+**NEXT MEETING April 7, 2021** at 12 PM US Eastern Time (UTC -4) - "Data in Azure" with Matt Bradley <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
 
-**April 7, 2021** at 12 PM US Eastern Time (UTC -4) - "Data in Azure" with Matt Bradley
+**April 21, 2021** at 12:00 PM US Eastern Time (UTC -5)- "Data Modeling and Partitioning in Azure Cosmos DB" with Leonard (Lenni) Lobel.
 
-**April 21, 2021** at 12:00 PM US Eastern Time (UTC -4)- "Data Modeling and Partitioning in Azure Cosmos DB" with Leonard (Lenni) Lobel.
+**May 5, 2021** at 12 PM US Eastern Time (UTC -5) - "How GitHub can help in planning, building, and deploying a Podcast/Blog site" with Chris Reddington
 
-**May 5, 2021** at 12 PM US Eastern Time (UTC -4) - "How GitHub can help in planning, building, and deploying a Podcast/Blog site" with Chris Reddington
+**May 26, 2021** at 12 PM US Eastern Time (UTC -5) - "Do You Know How to YAML? How to best leverage YAML Pipelines for Azure Deployments and Releases" with John Folberth
 
-**May 26, 2021** at 12 PM US Eastern Time (UTC -4) - "Do You Know How to YAML? How to best leverage YAML Pipelines for Azure Deployments and Releases" with John Folberth
+**June 9, 2021** at 12 PM US Eastern Time (UTC -5) - "Endpoint Manager and Autopilot" with Shabaz Darr 
 
 ## Past Sessions
 
