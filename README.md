@@ -44,17 +44,17 @@ All past meetings are recorded and can be access here: <a rel="noreferrer noopen
 
 **Speaker bios:** <a rel="noreferrer noopener" href="https://sessionize.com/api/v2/c8xd84bp/view/SpeakerWall" target="_blank">https://sessionize.com/api/v2/c8xd84bp/view/SpeakerWall</a>
 
-## Upcoming Sessions
+## Upcoming Sessions - TO BE DETERMINED - Meetings for this group have been paused, we will be back soon.
 
-**NEXT MEETING April 7, 2021** at 12 PM US Eastern Time (UTC -4) - "Data in Azure" with Matt Bradley <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
+**NEXT MEETING TO BE DETERMINED** at 12 PM US Eastern Time (UTC -4) - "Data in Azure" with Matt Bradley <a href="https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events" target="_blank">https://www.meetup.com/MW-Azure-and-M365-User-Group-Meetup/events.
 
-**April 21, 2021** at 12:00 PM US Eastern Time (UTC -5)- "Data Modeling and Partitioning in Azure Cosmos DB" with Leonard (Lenni) Lobel.
+**TBD** at 12:00 PM US Eastern Time (UTC -5)- "Data Modeling and Partitioning in Azure Cosmos DB" with Leonard (Lenni) Lobel.
 
-**May 5, 2021** at 12 PM US Eastern Time (UTC -5) - "How GitHub can help in planning, building, and deploying a Podcast/Blog site" with Chris Reddington
+**TBD** at 12 PM US Eastern Time (UTC -5) - "How GitHub can help in planning, building, and deploying a Podcast/Blog site" with Chris Reddington
 
-**May 26, 2021** at 12 PM US Eastern Time (UTC -5) - "Do You Know How to YAML? How to best leverage YAML Pipelines for Azure Deployments and Releases" with John Folberth
+**TBD** at 12 PM US Eastern Time (UTC -5) - "Do You Know How to YAML? How to best leverage YAML Pipelines for Azure Deployments and Releases" with John Folberth
 
-**June 9, 2021** at 12 PM US Eastern Time (UTC -5) - "Endpoint Manager and Autopilot" with Shabaz Darr 
+**TBD** at 12 PM US Eastern Time (UTC -5) - "Endpoint Manager and Autopilot" with Shabaz Darr 
 
 ## Past Sessions
 
