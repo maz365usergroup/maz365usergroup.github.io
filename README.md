@@ -2,6 +2,7 @@
 
 ![user group logo](MWAzureUG.png "Midwest Azure M365 user group")
 
+**This group is moving to <a rel="noreferrer noopener" href="http://gimmecloudtalks.com" target="_blank">http://gimmecloudtalks.com</a>**
 
 ## **Group Mission**
 - Create an inclusive learning environment for those interested in Cloud technologies on Azure and M365
@@ -16,15 +17,17 @@
 
 ## **Our Team**
 
-**Dwayne Natwick**: (@DwayneNCloud) Microsoft MVP for Azure, Microsoft Certified Trainer (MCT) Regional Lead, Cloud Training Architect Lead at Opsgility. 
+**Dwayne Natwick**: (@DwayneNCloud) Microsoft MVP for Azure, Microsoft Certified Trainer (MCT) Regional Lead, Senior Product Manager, Migration and Security service lines at Cloudreach, an Atos company. 
 
 **Brian Gorman**: (@blgorman) MCSA, MCSD, MCT, Senior Cloud Training Architect @ Opsgility, Owner at MajorGuidanceSolutions
 
-**Shannon Kuehn**: (@ShanKuehn) Senior Cloud Advocate, Azure Engineering at Microsoft
+**Shannon Kuehn**: (@ShanKuehn) Senior Program Manager - Identity and Network Access Advocacy at Microsoft
 
-**Brette Bossick**: (@BretteMB) Founder & COO at Skylines Academy, Enabling and Empowering IT Teams to Adopt Cloud
+**Brette Bossick**: (@BretteMB) Senior Customer Success Account Manager at Microsoft. Founder & COO at Skylines Academy, Enabling and Empowering IT Teams to Adopt Cloud
 
-**Nick Colyer**: (@vNickC) Chief Architect at Ahead, Co-Founder of Skylines Academy, Microsoft MVP 2020-2021, VMware vExpert, Microsoft Certified Trainer
+**Nick Colyer**: (@vNickC) Director, Cloud, DevOps, and Automation at Ahead, Co-Founder of Skylines Academy, Microsoft MVP 2020-2021, VMware vExpert, Microsoft Certified Trainer
+
+**Derek Smith**: (@ConsidercloudDS) Director of Cloud Strategic Alliances and Brand at Trace3. Microsoft Certified Trainer
 
 ## **Register and Follow** 
 
